@@ -1,5 +1,5 @@
 // Service Worker · COCINADECOR Calculadora Encimeras
-const CACHE_NAME = 'cocinadecor-v1';
+const CACHE_NAME = 'cocinadecor-v2';
 
 // Todos los archivos que necesita la app para funcionar offline
 const ASSETS = [
